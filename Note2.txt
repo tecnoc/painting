@@ -2,3 +2,4 @@ PAD_ANDROID
 set NDK: D:\PAD\libs\AndroidFrameworkConfig\configs\project\bff\Main_Paths.bff
 setEnv.bat JAVA_OPTS, GLOBAL_JAVA_OPTIONS
 set GLLEGACY_JAVA_HOME
+12345
